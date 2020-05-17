@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Burj Khalifa",
-		"height": "350"
+		"height": "830"
 	},
 	{
 		"name": "Shanghai Tower",
-		"height": "263.34"
+		"height": "663.34"
 	},
 	{
 		"name": "Abraj Al-Bait Clock Tower",
@@ -21,6 +21,6 @@
 	},
 	{
 		"name": "Tower of Unity",
-		"height": "130.16"
+		"height": "182.16"
 	}
 ]
